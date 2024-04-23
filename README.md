@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadeennoshy&show_icons=true&locale=en" alt="nadeennoshy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadeennoshy&" alt="nadeennoshy" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nadeennoshy&theme=transparent&border_radius=5" alt="GitHub Streak" /></a>
