@@ -4,7 +4,7 @@
 
 <br>
 
-## 🙋‍♂️ About Me:
+## 🙋🏼‍♀️ About Me:
 
 - 🌱 I’m currently learning **Flutter**.
 
